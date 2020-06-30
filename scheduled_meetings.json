@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5efa0d650d2eee1c9cd35cd2"
+  },
+  "meetingRoomNo": "KAK403",
+  "building": "Kakadu",
+  "floor": 4,
+  "duration": "1hour"
+},{
+  "_id": {
+    "$oid": "5efb0124527f5866020eeb6f"
+  },
+  "meetingRoomNo": "YS304",
+  "building": "YellowStone",
+  "floor": 3,
+  "duration": "1hour"
+},{
+  "_id": {
+    "$oid": "5efb0fcd884af42ec162c1e7"
+  },
+  "meetingRoomNo": "DN101",
+  "building": "Denali",
+  "floor": 1,
+  "duration": "1hour"
+}]

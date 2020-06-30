@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "5efa0b1e0d2eee1c9cd35cce"
+  },
+  "meetingRoomNo": "KAK201",
+  "roomName": "Jasmine",
+  "location": "Kakadu-2",
+  "seats": 4,
+  "isAvailable": true
+},{
+  "_id": {
+    "$oid": "5efa0b420d2eee1c9cd35ccf"
+  },
+  "meetingRoomNo": "KAK403",
+  "roomName": "Lily",
+  "location": "Kakadu-4",
+  "seats": 8,
+  "isAvailable": false
+},{
+  "_id": {
+    "$oid": "5efa0b730d2eee1c9cd35cd0"
+  },
+  "meetingRoomNo": "YS304",
+  "roomName": "Rose",
+  "location": "YellowStone-3",
+  "seats": 8,
+  "isAvailable": false
+},{
+  "_id": {
+    "$oid": "5efa0bb90d2eee1c9cd35cd1"
+  },
+  "meetingRoomNo": "DN404",
+  "roomName": "Hibiscus",
+  "location": "Denali-4",
+  "seats": 4,
+  "isAvailable": true
+},{
+  "_id": {
+    "$oid": "5efb0e7e8fc819420cde60fa"
+  },
+  "meetingRoomNo": "KAK502",
+  "roomName": "Lotus",
+  "location": "Kakadu-5",
+  "seats": 4,
+  "isAvailable": true
+},{
+  "_id": {
+    "$oid": "5efb0eef8fc819420cde60fb"
+  },
+  "meetingRoomNo": "YS205",
+  "roomName": "Olive",
+  "location": "Yellowstone-2",
+  "seats": 4,
+  "isAvailable": true
+},{
+  "_id": {
+    "$oid": "5efb0f798fc819420cde60fc"
+  },
+  "meetingRoomNo": "DN101",
+  "roomName": "Flora",
+  "location": "Denali-1",
+  "seats": 8,
+  "isAvailable": false
+}]
